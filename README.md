@@ -2,8 +2,7 @@
 
 The George Brown College JavaScript Bootcamp will be run over the course of multiple 2 hour sessions to help refresh and further develop your knowledge of JavaScript. The overall goal is to prepare you for other courses taught based on ES languages (ECMAScript) such as TypeScript for COMP3132. All of the examples and content will be demonstrated with Node.js and VSCode (however you may use any IDE of preference).
 
-#### Day 1
----
+## Day 1
 - Variables and Constants
     - Difference between "var" and "let"
     - Constants
@@ -32,8 +31,7 @@ The George Brown College JavaScript Bootcamp will be run over the course of mult
     - Scope
 
 
-#### Day 2
----
+## Day 2
 - Functions
     - Anonymous
     - Named
@@ -70,8 +68,7 @@ The George Brown College JavaScript Bootcamp will be run over the course of mult
 - BONUS: Recursion
 
 
-#### Day 3
----
+## Day 3
 - Arrays
     - Indexed
     - Associative
@@ -98,8 +95,7 @@ The George Brown College JavaScript Bootcamp will be run over the course of mult
 - BONUS: Read and Write Files With Node
 
 
-#### Day 4
----
+## Day 4
 - Objects
     - Properties
     - Methods
