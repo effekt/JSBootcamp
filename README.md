@@ -2,6 +2,10 @@
 
 The George Brown College JavaScript Bootcamp will be run over the course of multiple 2 hour sessions to help refresh and further develop your knowledge of JavaScript. The overall goal is to prepare you for other courses taught based on ES languages (ECMAScript) such as TypeScript for COMP3132. All of the examples and content will be demonstrated with Node.js and VSCode (however you may use any IDE of preference).
 
+## Required Software
+- [NodeJS](https://nodejs.org/en/)
+- [VSCode](https://code.visualstudio.com/download)
+
 ## Day 1
 - Variables and Constants
     - Difference between "var" and "let"
